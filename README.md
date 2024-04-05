@@ -5,11 +5,11 @@
 
 - 🌱 Software Engineer @ **NeoSoft Private Limited**
 
-- **Azure Cloud | Neural Network Architecture | Application Architecture | Model Development & Deployment** 
+- **Machine Learning & Deep Learning | Azure Cloud | Neural Network Architecture | Application Architecture | Model Development & Deployment** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/nayankr8625](https://github.com/nayankr8625)
+- 👨‍💻 Some of my projects are available at [https://github.com/nayankr8625](https://github.com/nayankr8625)
 
-- 💬 Ask me about **Python, Statistics, Machine Learning, Deep Learning, Computer Vision**
+- 💬 Ask me about **Python, Statistics, Machine Learning, Deep Learning, Computer Vision and App deployment**
 
 
 <h3 align="left">Connect with me:</h3>
