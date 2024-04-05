@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsankush&label=Profile%20views&color=0e75b6&style=flat" alt="dsankush" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Cloud Computing(AZURE)[ML Model Deployement]**
+- 🌱 Software Engineer @ **NeoSoft Private Limited**
+
+- **Azure Cloud | Neural Network Architecture | Application Architecture | Model Development & Deployment** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/nayankr8625](https://github.com/nayankr8625)
 
-- 💬 Ask me about **Python, Statistics, Probabiltiy, SQL and Machine Learning**
+- 💬 Ask me about **Python, Statistics, Machine Learning, Deep Learning, Computer Vision**
 
 
 <h3 align="left">Connect with me:</h3>
