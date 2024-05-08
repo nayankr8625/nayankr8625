@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nayan Kumar</h1>
-<h3 align="center">A Data Scientist/Machine Learning Engineer Currently Working as a Data scientist in Kanini Software Solution</h3>
+<h3 align="center">A Data Scientist/Machine Learning Engineer Currently Working as a Data scientist in NeoSOFT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsankush&label=Profile%20views&color=0e75b6&style=flat" alt="dsankush" /> </p>
 
 - 🌱 Software Engineer @ **NeoSoft Private Limited**
 
-- **Machine Learning & Deep Learning | Azure Cloud | Neural Network Architecture | Application Architecture | Model Development & Deployment** 
+- **Machine Learning & Deep Learning | Azure Cloud | Neural Network Architecture | GEN-AI | Application Development & Deployment** 
 
 - 👨‍💻 Some of my projects are available at [https://github.com/nayankr8625](https://github.com/nayankr8625)
 
