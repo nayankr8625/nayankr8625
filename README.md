@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nayan Kumar
 
-### A Data Scientist/Machine Learning Engineer  
+### A Data Scientist/AI Engineer  
 **Currently Data Scientist at PwC (Full Time) | Part-Time Data Scientist at Turing**
 
 
