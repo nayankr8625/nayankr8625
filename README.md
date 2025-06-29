@@ -3,9 +3,6 @@
 ### A Data Scientist/Machine Learning Engineer  
 **Currently Data Scientist at PwC (Full Time) | Part-Time Data Scientist at Turing**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dsankush&label=Profile%20views&color=0e75b6&style=flat" alt="dsankush" />
-</p>
 
 **Machine Learning & Deep Learning | LLMs | RLHF | GenAI | Azure Cloud | Application Development & Deployment**
 
