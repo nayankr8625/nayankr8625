@@ -5,12 +5,9 @@
 
 
 **Machine Learning & Deep Learning | LLMs | RLHF | GenAI | Azure Cloud | Application Development & Deployment**
-
-- 👨‍💻 My Portfolio Link [nayan-decodes](https://nayan-decodes.abacusai.app/)
 - 💬 Ask me about **Python, Statistics, Machine Learning, Deep Learning, Computer Vision, LLMs, RLHF, and App Deployment**
 - 🏢 **Current Roles:**
   - Data Scientist @ **PwC** (Full Time)
-  - Data Scientist | LLM trainer @ **Turing** (Part Time)
 - 🏢 **Previous:** Software Engineer (Data Science) @ NeoSOFT, Data Scientist @ Kanini
 
 ### Connect with me:
